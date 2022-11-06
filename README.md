@@ -224,15 +224,27 @@ int main()
 ## Tabulations:
 Calculation of sensitivity 
 % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
+![image](https://user-images.githubusercontent.com/94165326/200155027-884bf647-7d83-4d14-a2a8-fe6330db0389.png)
+
 
 ## Graph:	
+![image](https://user-images.githubusercontent.com/94165326/200155035-e6ca3c4a-cec5-44e9-a180-4695f00166f9.png)
+
 
 
  
 Figure -09 graph between temperature values and ADC output 
 ## Output:
-## Before stimulation
+## Before stimulation:
+![image](https://user-images.githubusercontent.com/94165326/200155049-0ce70003-e2e7-4ee4-88f7-06973cc50286.png)
+
+
 ## After Stimulation:
+![image](https://user-images.githubusercontent.com/94165326/200155064-20ee3f61-fddf-42e4-8f62-d44ce736e9c3.png)
+
+## Circuit Diagram:
+![image](https://user-images.githubusercontent.com/94165326/200155084-6b006662-de48-4449-b642-d52912b5ecf9.png)
+
 
 
 
